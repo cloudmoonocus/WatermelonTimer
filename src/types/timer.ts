@@ -4,5 +4,6 @@ export interface timer {
     readonly defaultVal: number
     settingVal: number
     time: number
+    paulseTimeSetting: number
     paulseTime: number
 }
